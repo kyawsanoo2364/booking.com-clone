@@ -37,6 +37,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## ```.env.local```
 ```
-OXYLABS_USERNAME={your_username}
+  OXYLABS_USERNAME={your_username}
   OXYLABS_PASSWORD=password
 ```
